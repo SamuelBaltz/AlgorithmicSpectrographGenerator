@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------#
-# BALTZ ALGORITHMIC SPECTROGRAPH GENERATOR
+# BALTZ ALGORITHMIC GENERATOR OF SPECTRA (BAGS)
 #
 # Written during an all-night one-person hackathon on February 23 during mission
 # Silver Seas 2018
