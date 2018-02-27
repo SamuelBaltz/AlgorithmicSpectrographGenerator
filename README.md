@@ -1,0 +1,2 @@
+# AlgorithmicSpectrographGenerator
+Algorithmic spectrograph generation for OCESS
